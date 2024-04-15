@@ -6,7 +6,7 @@ DSA - Developer - Designer
 
 * 🌍  I'm based in Chennai - TamilNadu
 * ✉️  You can contact me at [rachitdhaka29@gmail.com](mailto:rachitdhaka29@gmail.com)
-* 🧠  I'm learning Data Structure in C++ and Solidity
+* 🧠  I'm learning Data Structure in C++ and learning web development 
 * 🤝  I'm open to collaborating on Project and Idea sharing
 
 ### Skills
