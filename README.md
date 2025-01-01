@@ -1,13 +1,13 @@
-Hi 👋 My name is Rachit Dhaka
-=============================
+Hi there 👋 I'm Rachit Dhaka | DSA-Developer-Desginer
+👨‍💻 3rd Year B.Tech CSE (Cloud Computing) student at SRM Ramapuram, Chennai
+🚀 Head of Operations @ GeeksforGeeks Student Chapter, SRM RMP
+🏆 Hackathon Enthusiast | Winner of ETH Mumbai
 
-DSA - Developer - Designer
---------------------------
+I’m passionate about solving challenging problems with Data Structures and Algorithms and building seamless digital experiences through front-end development. Hackathons and collaborative projects fuel my creativity and drive.
 
-* 🌍  I'm based in Chennai - TamilNadu
-* ✉️  You can contact me at [rachitdhaka29@gmail.com](mailto:rachitdhaka29@gmail.com)
-* 🧠  I'm learning Data Structure in C++ and learning web development 
-* 🤝  I'm open to collaborating on Project and Idea sharing
+💡 I love mentoring juniors, fostering collaboration, and creating meaningful connections. For me, growth thrives on humility, creativity, and teamwork.
+
+🔗 Let’s connect:
 
 ### Skills
 
