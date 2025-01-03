@@ -8,7 +8,7 @@ I’m passionate about solving challenging problems with Data Structures and Alg
 
 💡 I love mentoring juniors, fostering collaboration, and creating meaningful connections. For me, growth thrives on humility, creativity, and teamwork.
 
-🔗 Let’s connect:
+🔗 Let’s connect: rachitdhaka29@gmail.com
 
 ### Skills
 
