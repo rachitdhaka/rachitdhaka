@@ -1,4 +1,4 @@
-<h1 align="center">GM 👋, I'm RaCHITR</h1>
+<h1 align="center">GM 👋, I'm Rachit</h1>
 <h3 align="center">Developer - DSA - Designer PreFinal UnderGrad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachit-dhaka&label=Profile%20views&color=0e75b6&style=flat" alt="rachit-dhaka" /> </p>
