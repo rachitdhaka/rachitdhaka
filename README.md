@@ -1,6 +1,7 @@
 <img src="Rachit Dhaka.png" width="100%" alt="Banner Image">
 Gm ! Rachit Here
 
+### FrontEnd
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40" style="margin-right: 10px;" />
@@ -12,12 +13,7 @@ Gm ! Rachit Here
 
 
 
-### DevOps & Cloud Champion
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" style="margin-right: 10px;" />
-</div>
+
 
 ### Code Sorcery
 <div style="display: flex; flex-direction: row; align-items: center;">
